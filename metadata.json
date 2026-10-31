@@ -1,0 +1,6 @@
+{
+  "name": "Kage",
+  "description": "Adaptive Exam-Prep Tutoring with a Transparent Learner Model for CBSE Physics. Integrates Bayesian Knowledge Tracing, misconception detection from reasoning, FSRS spaced repetition, and Gemini-powered Socratic chat and voice agent.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
